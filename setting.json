@@ -1,4 +1,9 @@
 {
     "TOKEN": "NzUxMDgzNTU2NTk5NDk2NzA1.X1D7Eg.eC-SX9sCXL9LB7oxwXEwhAt1eUk",
-    "WL_channel": "751116126754439239"
-}
+    "WL_channel": "751116126754439239",
+
+    "pictrue": ["C:\\Users\\ray97\\Documents\\GitHub\\Nat_Bot\\p\\maxresdefault.jpg", "C:\\Users\\ray97\\Documents\\GitHub\\Nat_Bot\\p\\OyckYCb.gif"],
+    
+    "url_pic": ["https://cdnb.artstation.com/p/assets/images/images/029/953/483/large/kang-hee-yoon-190729-li.jpg?1599138674",
+               "https://cdna.artstation.com/p/assets/images/images/029/941/946/large/jan-urschel-patreon17-08a.jpg?1599098787"]
+} 
